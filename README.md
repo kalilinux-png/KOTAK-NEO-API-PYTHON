@@ -6,7 +6,7 @@
 
 ### 2 [Mail Developer](mailto:kalilinuxuser5@gmail.com "Mail Dev") 
 
-### 3 [Call Developer](tel:+91 7067308746 "Call Dev")
+### 3 [Call Developer](tel:+917067308746 "Call Dev")
 
 ## Kotak Neo Class
 
