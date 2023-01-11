@@ -1,8 +1,16 @@
 # KOTAK NEO PYTHON API
 
+### Contact Developer :
+
+### 1 [Whatsapp Chat With Developer](https://wa.me/message/OXZ53HSKZHXBE1 "Chat With Dev")
+
+### 2 [Mail Developer](mailto:kalilinuxuser5@gmail.com "Mail Dev") 
+
+### 3 [Call Developer](tel:+917067308746 "Call Dev")
+
 ## Kotak Neo Class
 
-### Initialize the class
+Initialize the class
 
 ```python-repl
 data ={
@@ -28,7 +36,7 @@ data ={
 kotak.get_tokens()
 ```
 
-### Place Order
+* Place Order
 
 ```python-repl
 order_data = kotak.place_order(after_market="NO", dq="0", market_protection="0", position_square_off_flag="N",
